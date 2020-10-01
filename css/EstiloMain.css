@@ -1,0 +1,170 @@
+html
+{
+    overflow-x: hidden;
+    height: 100vh;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+body
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#headerIndex
+{
+    color: white;
+    height: 10vh;
+    width: 100vw;
+    background-color: darkblue;
+}
+
+#tituloIndex
+{
+    font-family: Segoe UI;
+    font-weight:bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px; 
+    padding-top: 1.5vh;
+    padding-left: 50px;
+    float: left;
+}
+
+#AcomodarContenidosMain
+{
+    vertical-align: 4vh;
+}
+
+#contenidosIndex
+{
+    margin-left: 20vw;
+}
+
+.linkIndex
+{
+    text-decoration: none;
+    font-family: Segoe UI Light;
+    color: white;
+    font-size: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:5vh;
+    padding-bottom:2.8vh;
+    margin-left:-5px;
+    transition: 0.3s;
+}
+
+.linkIndex:hover
+{
+    color: blue;
+    background-color: lightblue;
+    transition: 0.3s;
+}
+
+.linkIndexRedes
+{
+    text-decoration: none;
+    margin-left: 35px;
+}
+
+.linkImgIndex
+{
+    margin-bottom: -12px;
+    height: 40px;
+    width: 40px;
+}
+
+#imagenHeader
+{
+    clear: left;
+    margin-top:18px;
+    margin-left:0px;
+}
+
+#tituloImagenHeader
+{
+    padding-top:50px;
+    right: 85px;
+    color: black;
+    position: absolute;
+    font-family: Segoe UI;
+    font-size: 50px;
+}
+
+#imgImagenHeader
+{
+    height: 65vh;
+    width: 100vw;
+}
+
+#contenedorBodyIndex
+{
+    clear:right;
+    font-family: Segoue UI;
+    margin-top: 64.85vh;
+}
+
+.descripcionIndex
+{
+    display: inline-block;
+    font-family: Segoe UI;
+    margin-left: 3.75vw;
+    margin-right: 3.75vw;
+    width: 25vw;
+    padding-top: 25px;
+    padding-bottom: 35px;
+    transition: 0.5s;
+}
+
+.descripcionIndex:hover
+{
+    background-color: lightblue;
+    transition: 0.5s;
+}
+
+.descripcionImagenIndex
+{
+    border-radius: 100%;
+    height: 25vh;
+    width: 20vw;
+    margin-left: 2.5vw;
+}
+
+.subtituloBodyIndex
+{
+    margin-top:10px;
+    margin-bottom:20px;
+    color: teal;
+    font-size:30px;
+    text-align:center;
+}
+
+p
+{
+    color:black;
+    text-align:justify;
+    width:80%;
+    margin-top:0px;
+    margin-left:35px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+#pieIndex
+{
+    width:100vw;
+    text-align: center;
+    font-family: Segoe UI Light;
+    font-size: 15px;
+    color: lightgrey;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: darkblue;
+}

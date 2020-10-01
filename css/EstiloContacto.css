@@ -1,0 +1,184 @@
+html
+{
+    overflow-x: hidden;
+    height: 100vh;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+body
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#headerIndex
+{
+    color: white;
+    height: 10vh;
+    width: 100vw;
+    background-color: darkblue;
+}
+
+#tituloIndex
+{
+    font-family: Segoe UI;
+    font-weight:bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px; 
+    padding-top: 1.5vh;
+    padding-left: 50px;
+    float: left;
+}
+
+#alinearContenidosIndex
+{
+    vertical-align: 4vh;
+}
+
+#contenidosIndex
+{
+    margin-left: 20vw;
+}
+
+.linkIndex
+{
+    text-decoration: none;
+    font-family: Segoe UI Light;
+    color: white;
+    font-size: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:5vh;
+    padding-bottom:2.8vh;
+    margin-left:-5px;
+    transition: 0.3s;
+}
+
+.linkIndex:hover
+{
+    color: blue;
+    background-color: lightblue;
+    transition: 0.3s;
+}
+
+.linkIndexRedes
+{
+    text-decoration: none;
+    margin-left: 35px;
+}
+
+.linkImgIndex
+{
+    margin-bottom: -12px;
+    height: 40px;
+    width: 40px;
+}
+
+.datosContacto
+{
+    display:inline-block;
+    font-family:Segoe UI;
+}
+
+
+#infoContacto
+{
+    color: white;
+    border-radius: 20px;
+    background-color: navy;
+    margin-top: 100px;
+    margin-left: 75px;
+    margin-bottom: 0px;
+    padding: 30px;
+}
+
+h2
+{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+p
+{
+    text-align: center;
+    line-height:30px;
+}
+
+#formularioContacto
+{
+    vertical-align: top;
+    margin-top: 110px;
+    font-family: Segoe UI Light;
+    font-size: 20px;
+    margin-left: 190px;
+}
+
+.textBox
+{
+    margin-left: 15px;
+    font-size: 16px;
+    font-family: Segoe UI Light;
+    height: 10px;
+    width: 280px;
+    padding: 10px;
+    background-color: gainsboro;
+    border-style: none;
+}
+
+label
+{
+    display: inline-block; 
+    width: 160px;
+    text-align: right;
+}
+
+#lblCuerpo
+{
+    float: left;
+    margin-bottom:30px;
+}
+
+#cuerpoForm
+{
+    margin-left: 20px;
+    height: 150px;
+    width: 320px;
+    resize: none;
+}
+
+#btnCuerpo
+{
+    margin-top: 30px;
+    float: right;
+    font-size: 20px;
+    padding: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Segoe UI Light;
+    border-style: none;
+    color: white;
+    background-color: navy;
+    transition: 0.2s;
+}
+
+#btnCuerpo:hover
+{
+    background-color: teal;
+    transition: 0.2s;
+}
+
+#pieIndex
+{
+    width:100vw;
+    text-align: center;
+    font-family: Segoe UI Light;
+    font-size: 15px;
+    color: lightgrey;
+    margin-top: 41px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: darkblue;
+}
