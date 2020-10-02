@@ -18,7 +18,7 @@ body
     color: white;
     height: 10vh;
     width: 100vw;
-    background-color: darkblue;
+    background-color: purple;
 }
 
 #tituloIndex
@@ -59,8 +59,8 @@ body
 
 .linkIndex:hover
 {
-    color: blue;
-    background-color: lightblue;
+    color: purple;
+    background-color: violet;
     transition: 0.3s;
 }
 
@@ -88,7 +88,7 @@ body
 {
     color: white;
     border-radius: 20px;
-    background-color: navy;
+    background-color: purple;
     margin-top: 100px;
     margin-left: 75px;
     margin-bottom: 0px;
@@ -160,13 +160,13 @@ label
     font-family: Segoe UI Light;
     border-style: none;
     color: white;
-    background-color: navy;
+    background-color: purple;
     transition: 0.2s;
 }
 
 #btnCuerpo:hover
 {
-    background-color: teal;
+    background-color: purple;
     transition: 0.2s;
 }
 
@@ -180,5 +180,5 @@ label
     margin-top: 41px;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: darkblue;
+    background-color: purple;
 }

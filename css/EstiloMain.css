@@ -18,7 +18,7 @@ body
     color: white;
     height: 10vh;
     width: 100vw;
-    background-color: darkblue;
+    background-color:purple;
 }
 
 #tituloIndex
@@ -59,15 +59,15 @@ body
 
 .linkIndex:hover
 {
-    color: blue;
-    background-color: lightblue;
+    color: grey;
+    background-color: violet;
     transition: 0.3s;
 }
 
 .linkIndexRedes
 {
     text-decoration: none;
-    margin-left: 35px;
+    margin-left: 50px;
 }
 
 .linkImgIndex
@@ -88,7 +88,7 @@ body
 {
     padding-top:50px;
     right: 85px;
-    color: black;
+    color: violet;
     position: absolute;
     font-family: Segoe UI;
     font-size: 50px;
@@ -121,13 +121,13 @@ body
 
 .descripcionIndex:hover
 {
-    background-color: lightblue;
+    background-color: violet;
     transition: 0.5s;
 }
 
 .descripcionImagenIndex
 {
-    border-radius: 100%;
+    border-radius: 0%;
     height: 25vh;
     width: 20vw;
     margin-left: 2.5vw;
@@ -137,7 +137,7 @@ body
 {
     margin-top:10px;
     margin-bottom:20px;
-    color: teal;
+    color: purple;
     font-size:30px;
     text-align:center;
 }
@@ -166,5 +166,5 @@ a
     margin-top: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: darkblue;
+    background-color: purple;
 }

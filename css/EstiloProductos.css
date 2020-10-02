@@ -18,7 +18,7 @@ body
     color: white;
     height: 10vh;
     width: 100vw;
-    background-color: darkblue;
+    background-color: purple;
     margin-bottom: 0px;
 }
 
@@ -60,7 +60,7 @@ body
 
 .linkIndex:hover
 {
-    color: blue;
+    color: purple;
     background-color: lightblue;
     transition: 0.3s;
 }
@@ -105,7 +105,7 @@ p
 .imgProducto
 {
     color: white;
-    background-color: navy;
+    background-color: purple;
     border-radius: 100%;
     margin-left: 12.5px;
     margin-top: 0px;
@@ -123,5 +123,5 @@ p
     margin-bottom: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: darkblue;
+    background-color: purple;
 }
